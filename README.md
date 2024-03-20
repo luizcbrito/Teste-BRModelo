@@ -1,4 +1,4 @@
-# Teste-BRModelo
+# Implementação-BRModelo
 
 ---
 
@@ -26,5 +26,7 @@ Além dos requisitos mínimos, foram incluídas as seguintes entidades para melh
 - **Evento:** Para armazenar informações sobre eventos realizados na biblioteca, como sessões de leitura e palestras.
 - **Editora:** Armazena informações sobre as editoras, como nome, localização e e-mail, permitindo distinguir a entidade responsável pela publicação do livro da entidade responsável pela autoria.
 - **Categoria:** Define as categorias ou gêneros de livros, como ficção, não ficção, romance e mistério.
+
+Para a criação do Diagrama de Entidade-Relacionamento (DER) neste projeto, foi utilizada a ferramenta [BRModelo 3.0]. Essa ferramenta proporcionou uma interface intuitiva e eficiente para a modelagem do banco de dados, permitindo a definição das entidades, atributos e relacionamentos de forma organizada e visual.
 
 Este documento apresenta uma visão geral das entidades definidas no projeto "Sistema de Gerenciamento de Biblioteca" desenvolvido por [Luiz Claudio Brito Diniz da Silva].

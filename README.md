@@ -28,5 +28,6 @@ Além dos requisitos mínimos, foram incluídas as seguintes entidades para melh
 - **Categoria:** Define as categorias ou gêneros de livros, como ficção, não ficção, romance e mistério.
 
 Para a criação do Diagrama de Entidade-Relacionamento (DER) neste projeto, foi utilizada a ferramenta [BRModelo 3.0]. Essa ferramenta proporcionou uma interface intuitiva e eficiente para a modelagem do banco de dados, permitindo a definição das entidades, atributos e relacionamentos de forma organizada e visual.
+Para abrir o projeto basta baixar o arquivo [Conceitual_1 --- BD1 Luiz] e abrir na ferramenta BRModelo.
 
 Este documento apresenta uma visão geral das entidades definidas no projeto "Sistema de Gerenciamento de Biblioteca" desenvolvido por [Luiz Claudio Brito Diniz da Silva].
